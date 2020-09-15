@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PrimerParcial</string>
+    <string name="Total">Producción Total</string>
+    <string name="Actual">Producción Actual</string>
+    <string name="Calcular">Calcular</string>
+    <string name="cinco">+5</string>
+    <string name="quince">+15</string>
+    <string name="treinta">+30</string>
+    <string name="cincuenta">+50</string>
+    <string name="Porcentaje">Porcentaje</string>
+</resources>
